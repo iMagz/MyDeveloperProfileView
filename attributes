@@ -10,10 +10,10 @@
       "foregroundColor": ".white"
     },
     {
-      "backgroundColor": "#000000",
+      "backgroundColor": ".blue",
       "image": "",
       "label": "Mail",
-      "foreground": "ffffff"
+      "foreground": ".white"
     },
     {
       "backgroundColor": "",
