@@ -1,0 +1,24 @@
+{
+  "image": "star.fill",
+  "title": "iMagz",
+  "message": "",
+  "buttons": [
+    {
+      "backgroundColor": "#000000"
+      "image": "",
+      "label": "GitHub",
+      "foregroundColor": "ffffff"
+    },
+    {
+      "color": "#000000"
+      "image": "",
+      "label": "Mail",
+      "foreground": "ffffff"
+    },
+    {
+      "backgroundColor": "#cccccc"
+      "label": "Dismiss",
+      "foregroundColor": ".primary"
+    }
+  ]
+}
