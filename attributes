@@ -13,7 +13,7 @@
       "backgroundColor": ".blue",
       "image": "",
       "label": "Mail",
-      "foreground": ".white"
+      "foregroundColor": ".white"
     },
     {
       "backgroundColor": "",
