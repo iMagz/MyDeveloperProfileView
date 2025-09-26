@@ -5,7 +5,7 @@
   "buttons": [
     {
       "backgroundColor": ".clear",
-      "image": "",
+      "image": "https://github.com/iMagz/MyDeveloperProfileView/blob/main/github-mark.svg",
       "label": "GitHub",
       "foregroundColor": ".primary"
     },
