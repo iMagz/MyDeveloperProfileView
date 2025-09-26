@@ -6,7 +6,7 @@
     {
       "backgroundColor": "ColorSets.primary",
       "opacity": "1.0",
-      "image": "https://github.com/iMagz/MyDeveloperProfileView/blob/main/github-icon.pdf",
+      "image": "https://github.com/iMagz/MyDeveloperProfileView/blob/main/mail-icon.png",
       "imageForegroundColor": ".inversedPrimary",
       "label": "GitHub",
       "labelForegroundColor": ".inversedPrimary"
