@@ -7,7 +7,7 @@
       "backgroundColor": ".clear",
       "opacity": "",
       "image": "https://github.com/iMagz/MyDeveloperProfileView/blob/main/github-mark.svg",
-      "imageForegroundColor": ".primary"
+      "imageForegroundColor": ".primary",
       "label": "GitHub",
       "labelForegroundColor": ".primary"
     },
@@ -15,7 +15,7 @@
       "backgroundColor": ".blue",
       "opacity": "1.0",
       "image": "systemName: envelope.fill",
-      "imageForegroundColor": ".white"
+      "imageForegroundColor": ".white",
       "label": "Mail",
       "labelForegroundColor": ".white"
     },
@@ -23,7 +23,7 @@
       "backgroundColor": "",
       "opacity": "",
       "image": "",
-      "imageForegroundColor": ".white"
+      "imageForegroundColor": ".white",
       "label": "Dismiss",
       "labelForegroundColor": ""
     }
