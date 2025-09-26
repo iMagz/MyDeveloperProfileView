@@ -4,7 +4,7 @@
   "message": "",
   "buttons": [
     {
-      "backgroundColor": ".primary",
+      "backgroundColor": "ColorSets.primary",
       "opacity": "1.0",
       "image": "https://github.com/iMagz/MyDeveloperProfileView/blob/main/github-mark.svg",
       "imageForegroundColor": ".inversedPrimary",
@@ -23,7 +23,7 @@
       "backgroundColor": "",
       "opacity": "",
       "image": "",
-      "imageForegroundColor": ".white",
+      "imageForegroundColor": "",
       "label": "Dismiss",
       "labelForegroundColor": ""
     }
