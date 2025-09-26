@@ -4,14 +4,14 @@
   "message": "",
   "buttons": [
     {
-      "backgroundColor": ".black",
+      "backgroundColor": ".clear",
       "image": "",
       "label": "GitHub",
-      "foregroundColor": ".white"
+      "foregroundColor": ".primary"
     },
     {
       "backgroundColor": ".blue",
-      "image": "",
+      "image": "systemName: "envelope"",
       "label": "Mail",
       "foregroundColor": ".white"
     },
