@@ -4,12 +4,12 @@
   "message": "",
   "buttons": [
     {
-      "backgroundColor": ".clear",
-      "opacity": "",
+      "backgroundColor": ".primary",
+      "opacity": "1.0",
       "image": "https://github.com/iMagz/MyDeveloperProfileView/blob/main/github-mark.svg",
-      "imageForegroundColor": ".primary",
+      "imageForegroundColor": ".inversedPrimary",
       "label": "GitHub",
-      "labelForegroundColor": ".primary"
+      "labelForegroundColor": ".inversedPrimary"
     },
     {
       "backgroundColor": ".blue",
