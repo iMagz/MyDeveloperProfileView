@@ -6,7 +6,7 @@
     {
       "backgroundColor": "ColorSets.primary",
       "opacity": "1.0",
-      "image": "https://raw.githubusercontent.com/iMagz/MyDeveloperProfileView/main/github-icon.pdf",
+      "image": "https://raw.githubusercontent.com/iMagz/MyDeveloperProfileView/main/GitHub-iOS-Default-Icon.png",
       "imageForegroundColor": ".inversedPrimary",
       "label": "GitHub",
       "labelForegroundColor": ".inversedPrimary"
@@ -14,7 +14,7 @@
     {
       "backgroundColor": ".blue",
       "opacity": "1.0",
-      "image": "systemName: envelope.fill",
+      "image": "https://raw.githubusercontent.com/iMagz/MyDeveloperProfileView/main/mail-icon.png",
       "imageForegroundColor": ".white",
       "label": "Mail",
       "labelForegroundColor": ".white"
