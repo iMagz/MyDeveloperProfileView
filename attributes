@@ -5,21 +5,27 @@
   "buttons": [
     {
       "backgroundColor": ".clear",
+      "opacity": "",
       "image": "https://github.com/iMagz/MyDeveloperProfileView/blob/main/github-mark.svg",
+      "imageForegroundColor": ".primary"
       "label": "GitHub",
-      "foregroundColor": ".primary"
+      "labelForegroundColor": ".primary"
     },
     {
       "backgroundColor": ".blue",
-      "image": "systemName: envelope",
+      "opacity": "1.0",
+      "image": "systemName: envelope.fill",
+      "imageForegroundColor": ".white"
       "label": "Mail",
-      "foregroundColor": ".white"
+      "labelForegroundColor": ".white"
     },
     {
       "backgroundColor": "",
+      "opacity": "",
       "image": "",
+      "imageForegroundColor": ".white"
       "label": "Dismiss",
-      "foregroundColor": ""
+      "labelForegroundColor": ""
     }
   ]
 }
